@@ -1,0 +1,34 @@
+{
+  "title": "Blockchain-Edge Security Framework for Industrial IoT Smart Spaces: Chaincode, Benchmark Harness, and Experimental Data",
+  "description": "<p>Source code and raw experimental data supporting the paper <em>\"A Hardware-Validated Permissioned Blockchain-Edge Security Framework for Industrial IoT Smart Spaces\"</em> (submitted to IEEE Transactions on Industrial Informatics, 2026).</p><p>Includes: (1) the Hyperledger Fabric v2.4.9 chaincode implementing DID-based RegisterDevice(), AuthorizeUser(), and LogData() smart-contract functions; (2) the closed-loop and open-loop benchmark harness; (3) Tier 1 ESP32 device firmware and Tier 2 Raspberry Pi gateway pipeline reference implementations; and (4) raw CSV data reproducing all throughput, latency, scalability, ablation, and attack-validation results (Tables VII-XII, Figures 6-8).</p>",
+  "license": "Apache-2.0",
+  "upload_type": "software",
+  "keywords": [
+    "blockchain",
+    "Hyperledger Fabric",
+    "industrial IoT",
+    "IIoT",
+    "edge computing",
+    "lightweight cryptography",
+    "AES",
+    "smart contracts",
+    "decentralized identifiers",
+    "DID",
+    "Raft consensus"
+  ],
+  "creators": [
+    { "name": "Parmar, Martin", "affiliation": "Charotar University of Science and Technology (CHARUSAT)" },
+    { "name": "Khatusuriya, Het", "affiliation": "Charotar University of Science and Technology (CHARUSAT)" },
+    { "name": "Chauhan, Dharmendra", "affiliation": "Charotar University of Science and Technology (CHARUSAT)" },
+    { "name": "Rahevar, Mrugendra", "affiliation": "Charotar University of Science and Technology (CHARUSAT)" },
+    { "name": "Patel, Bimal", "affiliation": "Charotar University of Science and Technology (CHARUSAT)" },
+    { "name": "Mewada, Hiren", "affiliation": "Charotar University of Science and Technology (CHARUSAT)" }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "IEEE Transactions on Industrial Informatics (2026), manuscript under review",
+      "resource_type": "publication-article"
+    }
+  ]
+}
