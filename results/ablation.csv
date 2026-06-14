@@ -1,0 +1,7 @@
+configuration,tps,p99_ms,cpu_pct,effect
+Full_framework_reference,500,167,79,Baseline
+Uniform_AES256_no_tiering,496,176,83,+18% crypto cost; +9ms P99
+Full_payload_on_chain,318,214,88,-36% TPS; breaches 200ms
+Cloud_first_no_edge,470,1090,61,+923ms P99; loses real-time
+No_gateway_co_endorsement,530,159,76,+6% TPS; disables FDIA defense
+Block_interval_0.5s,460,121,82,-8% TPS; -46ms P99

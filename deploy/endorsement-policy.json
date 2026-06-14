@@ -1,0 +1,13 @@
+{
+  "comment": "Endorsement policy for LogData(): the device home-gateway peer must co-sign every transaction, blocking false-data-injection (FDIA) at the consensus layer before unverified data can propagate (Section IV-D, security goal G2). On the 2-org Fabric test network this maps to AND of both org peers.",
+  "identities": [
+    { "role": { "name": "peer", "mspId": "Org1MSP" } },
+    { "role": { "name": "peer", "mspId": "Org2MSP" } }
+  ],
+  "policy": {
+    "2-of": [
+      { "signed-by": 0 },
+      { "signed-by": 1 }
+    ]
+  }
+}

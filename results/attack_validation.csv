@@ -1,0 +1,4 @@
+attack,security_goal,trials,successful_breaches,result
+FDIA,G2_integrity,200,0,100% blocked at endorsement validation
+Masquerading,G4_access_control,500,0,100% AES-GCM tag rejection
+Orderer_crash_DoS,G3_availability,1,1,leader re-elected in 1.8s; 0 data loss; recovered to 480 TPS

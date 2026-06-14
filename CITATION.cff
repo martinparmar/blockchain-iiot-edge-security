@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper and this repository."
+title: "Blockchain-Edge Security Framework for Industrial IoT Smart Spaces"
+authors:
+  - family-names: Parmar
+    given-names: Martin
+  - family-names: Khatusuriya
+    given-names: Het
+  - family-names: Chauhan
+    given-names: Dharmendra
+  - family-names: Rahevar
+    given-names: Mrugendra
+  - family-names: Patel
+    given-names: Bimal
+  - family-names: Mewada
+    given-names: Hiren
+version: 1.0.0
+date-released: 2026-06-14
+license: Apache-2.0
+repository-code: "https://github.com/CHARUSAT-IIoT/blockchain-iiot-edge-security"
+keywords:
+  - blockchain
+  - Hyperledger Fabric
+  - industrial IoT
+  - edge computing
+  - lightweight cryptography
+  - smart contracts
+  - DID authentication
+preferred-citation:
+  type: article
+  title: "A Hardware-Validated Permissioned Blockchain-Edge Security Framework for Industrial IoT Smart Spaces"
+  authors:
+    - family-names: Parmar
+      given-names: Martin
+    - family-names: Khatusuriya
+      given-names: Het
+    - family-names: Chauhan
+      given-names: Dharmendra
+    - family-names: Rahevar
+      given-names: Mrugendra
+    - family-names: Patel
+      given-names: Bimal
+    - family-names: Mewada
+      given-names: Hiren
+  journal: "IEEE Transactions on Industrial Informatics"
+  year: 2026
+  notes: "Submitted / under review."
