@@ -6,8 +6,6 @@ implementations, and raw experimental data supporting the paper:
 > **A Hardware-Validated Permissioned Blockchain-Edge Security Framework for
 > Industrial IoT Smart Spaces**
 > M. Parmar, H. Khatusuriya, D. Chauhan, M. Rahevar, B. Patel, and H. Mewada
-> *Submitted to IEEE Transactions on Industrial Informatics, 2026.*
-
 The framework is a four-tier architecture integrating Hyperledger Fabric v2.4.9
 (Raft ordering), a tiered AES-128/AES-256 cryptographic strategy, and DID/OAuth2
 smart-contract access control, validated on Raspberry Pi 4 and NVIDIA Jetson Orin
