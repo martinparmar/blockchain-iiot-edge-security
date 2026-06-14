@@ -23,12 +23,5 @@
     { "name": "Rahevar, Mrugendra", "affiliation": "Charotar University of Science and Technology (CHARUSAT)" },
     { "name": "Patel, Bimal", "affiliation": "Charotar University of Science and Technology (CHARUSAT)" },
     { "name": "Mewada, Hiren", "affiliation": "Charotar University of Science and Technology (CHARUSAT)" }
-  ],
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "CMES",
-      "resource_type": "publication-article"
-    }
   ]
 }
